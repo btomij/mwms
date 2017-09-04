@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">WMS System</string>
+    <string name="text_pls_input_user">Please Input Your Name</string>
+    <string name="text_pls_input_pass">Please Input Your Password</string>
+    <string name="text_login">Login</string>
+    <string name="text_main_menu">Main Menu</string>
+    <string name="empty"></string>
+    <string name="menu_item_stock_in">1.料件入庫</string>
+    <string name="menu_item_print_label">2.料件貼標</string>
+    <string name="menu_item_stock_out">3.領料出庫</string>
+    <string name="menu_item_stock_return">4.領料歸還</string>
+    <string name="menu_item_inventory">5.盤點作業</string>
+    <string name="menu_item_logout">6.登出作業</string>
+</resources>

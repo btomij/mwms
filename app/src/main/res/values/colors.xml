@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    colorAccent
+    <color name="colorPrimary">#262e38</color>
+    <color name="colorPrimaryDark">#202731</color>
+    <color name="colorAccent">#cbd0cf</color>
+    <color name="colorPrimaryBack">#262e38</color>
+    <color name="colorPrimaryTitle">#202630</color>
+
+    <color name="colorTitleTextColor">#4c4b44</color>
+    <color name="colorTextBackColor">#262e38</color>
+    <color name="colorTextEditColor">#dd8324</color>
+    <color name="colorTextHintColor">#ffffff</color>
+    <color name="colorTextBoardColor">#a37a21</color>
+    <color name="colorButtonBackColor">#f38d1e</color>
+    <color name="colorButtonPressedBackColor">#4d4c46</color>
+    <color name="colorButtonTextColor">#ffffff</color>
+</resources>
